@@ -1,0 +1,112 @@
+{'AmazonQA': 'This dataset contains Question and Answer data from Amazon, totaling around 1.4 million answered questions.'}
+{'AQuA': 'Dataset containing algebraic word problems with rationales for their answers.'}
+{'bAbI 1k': '20 synthetic tasks that each test a unique aspect of text and reasoning, and hence test different capabilities of learning models.'}
+{'bAbI 10k': '20 synthetic tasks that each test a unique aspect of text and reasoning, and hence test different capabilities of learning models.'}
+{'Blended Skill Talk': 'A dataset of 7k conversations explicitly designed to exhibit multiple conversation modes: displaying personality, having empathy, and demonstrating knowledge.'}
+{'BookTest': 'Sentence completion given a few sentences as context from a book. A larger version of CBT.'}
+{'Bot Adversarial Dialogue ': 'Datasets described in the paper Recipes for Safety in Open-domain Chatbots.Datasets consist of classification tasks in which the goal is to determine if the utterance is offensive or not given a dialogue context. '}
+{"Children's Book Test (CBT)": "Sentence completion given a few sentences as context from a children's book."}
+{'Coached Conversational Preference Elicitation': "A dataset consisting of 502 dialogs with 12,000 annotated utterances between a user and an assistant discussing movie preferences in natural language. It was collected using a Wizard-of-Oz methodology between two paid crowd-workers, where one worker plays the role of an 'assistant', while the other plays the role of a 'user'."}
+{'Choice of Plausible Alternatives': 'The Choice Of Plausible Alternatives (COPA) evaluation provides researchers with a tool for assessing progress in open-domain commonsense causal reasoning. COPA consists of 1000 questions, split equally into development and test sets of 500 questions each.'}
+{'Conversational Question Answering Challenge': 'CoQA is a large-scale dataset for building Conversational Question Answering systems. The goal of the CoQA challenge is to measure the ability of machines to understand a text passage and answer a series of interconnected questions that appear in a conversation. CoQA is pronounced as coca.'}
+{'Cornell Movie': 'Fictional conversations extracted from raw movie scripts.'}
+{'Dialog Based Language Learning: bAbI Task': 'Short dialogs based on the bAbI tasks, but in the form of a question from a teacher, the answer from the student, and finally a comment on the answer from the teacher. The aim is to find learning models that use the comments to improve.'}
+{'Dialog Based Language Learning: WikiMovies Task': 'Short dialogs based on WikiMovies, but in the form of a question from a teacher, the answer from the student, and finally a comment on the answer from the teacher. The aim is to find learning models that use the comments to improve.'}
+{'Dialog bAbI': 'Simulated dialogs of restaurant booking'}
+{'Dialog bAbI+': 'bAbI+ is an extension of the bAbI Task 1 dialogues with everyday incremental dialogue phenomena (hesitations, restarts, and corrections) which model the disfluencies and communication problems in everyday spoken interaction in real-world environments. '}
+{'Dialogue NLI': 'Dialogue NLI is a dataset that addresses the issue of consistency in dialogue models.'}
+{'DSTC7 subtrack 1 - ubuntu': 'DSTC7 is a competition which provided a dataset of dialogs very similar to the ubuntu dataset. In particular, the subtrack 1 consists in predicting the next utterance.'}
+{'FVQA': 'The FVQA, a VQA dataset which requires, and supports, much deeper reasoning. We extend a conventional visual question answering dataset, which contains image-question-answer triplets, through additional image-question-answer-supporting fact tuples. The supporting fact is represented as a structural triplet, such as <Cat,CapableOf,ClimbingTrees>.'}
+{'Deal or No Deal': 'End-to-end negotiation task which requires two agents to agree on how to divide a set of items, with each agent assigning different values to each item.'}
+{'HotpotQA': 'HotpotQA is a dataset for multi-hop question answering.The overall setting is that given some context paragraphs(e.g., a few paragraphs, or the entire Web) and a question,a QA system answers the question by extracting a span of textfrom the context. It is necessary to perform multi-hop reasoningto correctly answer the question.'}
+{'LIGHT-Dialogue': 'LIGHT is a text adventure game with actions and dialogue collected.The source data is collected between crowdworkers playing the game.'}
+{'LIGHT-Dialogue-Wild': ' LIGHT is a text adventure game with actions and dialogue.The WILD dataset here features 41,131+ training episodes of dialogue collected from deploying a game as described in '}
+{'MutualFriends': "Task where two agents must discover which friend of theirs is mutual based on the friends's attributes."}
+{'MCTest': "Questions about short children's stories."}
+{'Movie Dialog QA': 'Closed-domain QA dataset asking templated questions about movies, answerable from Wikipedia, similar to WikiMovies.'}
+{'Movie Dialog QA Recommendations': 'Dialogs discussing questions about movies as well as recommendations.'}
+{'Movie Dialog Recommendations': 'Questions asking for movie recommendations.'}
+{'Movie Dialog Reddit': 'Dialogs discussing Movies from Reddit (the Movies SubReddit).'}
+{'MTurk WikiMovies': 'Closed-domain QA dataset asking MTurk-derived questions about movies, answerable from Wikipedia.'}
+{'MultiNLI': 'A dataset designed for use in the development and evaluation of machine learning models for sentence understanding. Each example contains a premise and hypothesis. Model has to predict whether premise and hypothesis entail, contradict or are neutral to each other.'}
+{'NarrativeQA': 'A dataset and set of tasks in which the reader must answer questions about stories by reading entire books or movie scripts. '}
+{'Natural Questions': "An open domain question answering dataset. Each example contains real questions that people searched for in Google and the content of the a Wikipedia article that was amongst the top 5 search resutls for that query, and its annotations. The annotations have the options of a long answer that is seleced from span of major content entities in the Wikipedia article (e.g., paragraphs, tables), a short answerthat is selected from one or more short span of words in the article, or 'yes/no'. The existence of any of these answer formats depends on whether the main question can be answered, given the article; if not they are left empty."}
+{'Open Subtitles': 'Dataset of dialogs from movie scripts.'}
+{'Personalized Dialog Full Set': 'Simulated dataset of restaurant booking focused on personalization based on user profiles.'}
+{'Personalized Dialog Small Set': 'Simulated dataset of restaurant booking focused on personalization based on user profiles.'}
+{'QA CNN': 'Cloze dataset based on a missing (anonymized) entity phrase from a CNN article'}
+{'QA Daily Mail': 'Cloze dataset based on a missing (anonymized) entity phrase from a Daily Mail article.'}
+{'Question Answering in Context': 'Question Answering in Context is a dataset for modeling, understanding, and participating in information seeking dialog. Data instances consist of an interactive dialog between two crowd workers: (1) a student who poses a sequence of freeform questions to learn as much as possible about a hidden Wikipedia text, and (2) a teacher who answers the questions by providing short excerpts (spans) from the text. QuAC introduces challenges not found in existing machine comprehension datasets: its questions are often more open-ended, unanswerable, or only meaningful within the dialog context.'}
+{'Self-Feeding Chatbot': "Learning from Dialogue after Deployment. Leveraging user textual feedback to improve the chatbot's abilities."}
+{'Simple Questions': 'Open-domain QA dataset based on Freebase triples.'}
+{'The Stanford Natural Language Inference (SNLI) Corpus': 'The SNLI corpus (version 1.0) is a collection of 570k human-written English sentence pairs manually labeled for balanced classification with the labels entailment, contradiction, and neutral, supporting the task of natural language inference (NLI), also known as recognizing textual entailment (RTE)'}
+{'SQuAD2': 'Open-domain QA dataset answerable from a given paragraph from Wikipedia.'}
+{'SQuAD': 'Open-domain QA dataset answerable from a given paragraph from Wikipedia.'}
+{'TriviaQA': 'Open-domain QA dataset with question-answer-evidence triples.'}
+{"Task N' Talk": 'Dataset of synthetic shapes described by attributes, for agents to play a cooperative QA game.'}
+{'Ubuntu': 'Dialogs between an Ubuntu user and an expert trying to fix issue, we use the V2 version, which cleaned the data to some extent. '}
+{'Web Questions': 'Open-domain QA dataset from Web queries.'}
+{'WikiMovies': 'Closed-domain QA dataset asking templated questions about movies, answerable from Wikipedia.'}
+{'WikiQA': 'Open domain QA from Wikipedia dataset'}
+{'VQAv1': 'Open-ended question answering about visual content.'}
+{'VQAv2': 'Bigger, more balanced version of the original VQA dataset.'}
+{'VisDial': 'Task which requires agents to hold a meaningful dialog about visual content.'}
+{'MNIST_QA': 'Task which requires agents to identify which number they are seeing. From the MNIST dataset.'}
+{'InsuranceQA': 'Task which requires agents to identify high quality answers composed by professionals with deep domain knowledge.'}
+{'MS_MARCO': 'A large scale Machine Reading Comprehension Dataset with questions sampled from real anonymized user queries and contexts from web documents.'}
+{'CLEVR': 'A visual reasoning dataset that tests abilities such as attribute identification, counting, comparison, spatial relationships, and logical operations.'}
+{'nlvr': 'Cornell Natural Language Visual Reasoning (NLVR) is a language grounding dataset based on  pairs of natural language statements grounded in synthetic images.'}
+{'WMT': 'Workshop on Machine Translation task, currently only includes en_de.'}
+{'IWSLT14': '2014 International Workshop on Spoken Language task, currently only includes en_de and de_en.'}
+{'ConvAI2': 'A chit-chat dataset based on PersonaChat for a NIPS 2018 competition. '}
+{'ConvAI_ChitChat': 'Human-bot dialogues containing free discussions of randomly chosen paragraphs from SQuAD.'}
+{'Dialogue_QE': 'Human-bot dialogues labelled for quality at the level of dialogues. Can be used to train dialogue-level metric for dialogue systems.'}
+{'QAngaroo': 'Reading Comprehension with Multiple Hop. Including two datasets: WIKIHOP built on on wikipedia, MEDHOP built on paper abstracts from PubMed.'}
+{'SCAN': 'SCAN is a set of simple language-driven navigation tasks for studying compositional learning and zero-shot generalization. The SCAN tasks were inspired by the CommAI environment, which is the origin of the acronym (Simplified versions of the CommAI Navigation tasks).'}
+{'Persona-Chat': 'A chit-chat dataset where paired Turkers are given assigned personas and chat to try to get to know each other.'}
+{'TaskMaster-1-2019': 'A chit-chat dataset by GoogleAI providing high quality goal-oriented conversationsThe dataset hopes to provoke interest in written vs spoken languageBoth the datasets consists of two-person dialogs:Spoken: Created using Wizard of Oz methodology.Written: Created by crowdsourced workers who were asked to write the full conversation themselves playing roles of both the user and assistant.'}
+{'Twitter': 'Twitter data found on GitHub. No train/valid/test split was provided so 10k for valid and 10k for test was chosen at random.'}
+{'Wikipedia': 'Dump of Wikipedia articles from 2/3/18'}
+{'Flickr30k': '30k captioned images pulled from Flickr compiled by UIUC. '}
+{'COCO_Captions': 'COCO annotations derived from the 2015 COCO Caption Competition. '}
+{'Integration Tests': 'Artificial tasks for ensuring models perform as expected'}
+{'ConvAI2_wild_evaluation': 'Dataset collected during the wild evaluation of ConvaAI2 participants bots. 60% train, 20% valid and 20% test is chosen at random from the whole dataset.'}
+{'SST Sentiment Analysis': 'Dataset containing sentiment trees of movie reviews. We use the modified binary sentence analysis subtask given by the DecaNLP paper here.'}
+{'CNN/DM Summarisation': 'Dataset collected from CNN and the Daily Mail with summaries as labels, Implemented as part of the DecaNLP task.'}
+{'QA-SRL Semantic Role Labeling': 'QA dataset implemented as part of the DecaNLP task.'}
+{'QA-ZRE Relation Extraction': 'Zero Shot relation extraction task implemented as part of the DecaNLP task.'}
+{'WOZ restuarant reservation (Goal-Oriented Dialogue)': 'Dataset containing dialogues dengotiating a resturant reservation. Implemented as part of the DecaNLP task, focused on the change in the dialogue state.'}
+{'WikiSQL semantic parsing task': 'Dataset for parsing sentences to SQL code, given a table. Implemented as part of the DecaNLP task.'}
+{'MWSC pronoun resolution': 'Resolving possible ambiguous pronouns. Implemented as part of the DecaNLP task, and can be found on the decaNLP github.'}
+{'DecaNLP: The Natural Language Decathlon': 'A collection of 10 tasks (SQuAD, IWSLT, CNN/DM, MNLI, SST, QA‑SRL,QA‑ZRE, WOZ, WikiSQL and MWSC) designed to challenge a model with a range of different tasks. Note that we use IWSLT 2014 instead of 2016/2013test/2014test for train/dev/test as given in the DecaNLP paper. '}
+{'Personality_Captions': '200k images from the YFCC100m dataset with captions conditioned on one of 215 personalities.'}
+{'Image_Chat': '202k dialogues and 401k utterances over 202k images from the YFCC100m dataset using 215 possible personality traits'}
+{'Image_Chat_Generation': 'Image Chat task to train generative model'}
+{'Wizard_of_Wikipedia': 'A dataset with conversations directly grounded with knowledge retrieved from Wikipedia. Contains 201k utterances from 22k dialogues spanning over 1300 diverse topics, split into train, test, and valid sets. The test and valid sets are split into two sets each: one with overlapping topics with the train set, and one with unseen topics.'}
+{'Wizard_of_Wikipedia_Generator': 'Wizard of Wikipedia task to train generative models'}
+{'Daily Dialog': 'A dataset of chitchat dialogues with strong annotations for topic, emotion and utterance act. This version contains both sides of every conversation, and uses the official train/valid/test splits from the original authors.'}
+{'Empathetic Dialogues': 'A dataset of 25k conversations grounded in emotional situations to facilitate training and evaluating dialogue systems.Dataset has been released under the CC BY-NC license.'}
+{'Dialogue Safety': "Several datasets described in the paper Built it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack. All datasets are classification tasks in which the goal is to determine if the text is offensive or 'safe'."}
+{'MultiWOZ 2.0': 'A fully labeled collection of human-written conversations spanningover multiple domains and topics.'}
+{'MultiWOZ 2.1': 'A fully labeled collection of human-written conversations spanningover multiple domains and topics.'}
+{'SelfChat': 'Not a dataset, but a generic world for model self-chats.'}
+{'OneCommon': 'A collaborative referring task which requires advanced skills of common grounding under continuous and partially-observable context. This code also includes reference-resolution annotation.'}
+{'Image Grounded Conversations': 'A dataset of (image, context, question, answer) tuples, comprised of eventful images taken from Bing, Flickr, and COCO.'}
+{'Adversarial Natural Language Inference (ANLI) Corpus': 'The ANLI corpus (version 1.0) is a new large-scale NLI benchmark dataset,collected via an iterative, adversarial human-and-model-in-the-loop procedurewith the labels entailment, contradiction, and neutral. A total of three rounds of data are collected that progressively increase in difficulty and complexity.'}
+{'Natural Language Inference (NLI) Corpus': 'A collection of 3 popular Natural Language Inference(NLI) benchmark tasks: ANLI v0.1, MultiNLI 1.0, SNLI 1.0.'}
+{'Funpedia': 'Task for rephrasing sentences from Wikipedia conditioned on a persona.'}
+{'LIGHT Gender Bias': 'Task for debiasing the LIGHT dataset.'}
+{'AirDialogue': 'Task for goal-oriented dialogue using airplane booking conversations between agents and customers.'}
+{'Holl-E': 'Sequence of utterances and responses with background knowledge aboutmovies. From the Holl-E dataset.'}
+{'ELI5': 'This dataset contains Question and Answer data from Reddit explainlikeimfive posts and comments.'}
+{'ReDial': 'Annotated dataset of dialogues where users recommend movies to each other.'}
+{'DREAM': 'A multiple-choice answering dataset based on multi-turn, multi-party dialogue.'}
+{'C3': 'A multiple-choice answering dataset in Chinese based on a prior passage.'}
+{'CommonSenseQA': 'CommonSenseQA is a multiple-choice Q-A dataset that relies on commonsense knowlegde to predict correct answers.'}
+{'Style-Controlled Generation': 'Dialogue datasets (BlendedSkillTalk, ConvAI2, EmpatheticDialogues, and Wizard of Wikipedia) labeled with personalities taken from the Image-Chat dataset. Used for the style-controlled generation project'}
+{'GoogleSGD': 'The Schema-Guided Dialogue (SGD) dataset consists of over 20k annotated multi-domain, task-oriented conversations between a human and a virtual assistant.'}
+{'TaskMaster2': 'The second version of TaskMaster, containing Wizard-of-Oz dialogues for task oriented dialogue in 7 domains.'}
+{'GenderationBiasControlTask': 'A teacher that wraps other ParlAI tasks and appends control tokens to the text field indicating the presence of gender words in the label(s).'}
+{'MD Gender': 'Tasks for the multi-dimensional gender bias classifier training.'}
+{'Sensitive Topics Evaluation Topics Valid Teacher': 'Task for evaluating a classifier trained to identify conversational messages on the following sensitive topics: Politics, Drugs, Medical Advice, Religion, Relationships & Dating / NSFW.'}
+{'DialoguE COntradiction DEteCtion (DECODE)': 'Task for detect whether the last utterance contradicts previous dialogue history.'}
