@@ -5,7 +5,8 @@ train, dev/validation, test data used are .conll files in the current folder.
 ## Experiments
 I tried below values for each hyperparameter, and the avg f1 score on the dev dataset will be the criteria to choose the best parameter settings.
 
-Table of hyperparameter tuning validation f1 score
+`
+**Table of hyperparameter tuning validation f1 score**
 Training config 
 (parameters same as default other than indicated)
 Avg f1 score on dev dataset (‘emerging.dev.conll’)
@@ -54,6 +55,7 @@ Epochs 300(improve with epochs)
 Combine two parameters
 Embed dim 100, num layer 3
 0.8820091892966707
+`
 
 ## Results
 Softmax classifier hyperparameter tuning: test avg f1_score = 0.952
